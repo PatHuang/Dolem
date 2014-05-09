@@ -1,4 +1,4 @@
-dolem
+Dolem
 =====
 
-pen Source Cross-platform SDK
+Open Source Cross-platform SDK
