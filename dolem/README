@@ -1,0 +1,34 @@
+
+Dolem Project - Normal Distro
+
+README
+===============================
+--Part 1: Dolem Source Code Copyright and License
+--Part 2: Dolem Getting Started
+===============================
+
+===============================
+--Part 1: Copyright and License
+===============================
+Copyright (c) 2008-2014 The Dolem Project. All rights reserved.
+
+GNULIB: imported code, so copyright and license kept no changes (LGPL license).
+
+dotAux: imported code, so copyright license kept no changes (MIT license).
+
+Sub projects:
+Dolem - MIT License for most code.
+
+See COPYING and Macros.COPYING for the details.
+
+
+===============================
+--Part 2: Dolem Getting Started
+===============================
+
+Dolem portable code intend for use by convention of ./configure && make && make install. 
+
+See INSTALL
+
+TBD
+
